@@ -8,6 +8,7 @@ public class GestionCollectionAlbumsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GestionCollectionAlbumsApplication.class, args);
+		System.out.println("Welcome !");
 	}
 
 }
